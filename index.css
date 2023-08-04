@@ -1,4 +1,9 @@
 .logo {
     height:100px;
     width:100px;
+    float:left;
+    
+}
+h1 {
+    text-align:center;
 }
