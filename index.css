@@ -79,6 +79,7 @@ h1 {
 .hero-cta p {
     font-family: 'Roboto', arial;
     opacity: 0.7;
+    
 }
 
 .content {
@@ -87,9 +88,10 @@ h1 {
 
 .content-info {
     display: flex;
-    /* border: 1px solid gold; */
     justify-content: center;
     flex-wrap: wrap;
+    color:#E5E7EB;
+    text-align:center;
 }
 
 .content-info img {
@@ -169,6 +171,7 @@ h3 {
     background-color: #1F2937;
     color: #fff;
     font-family: 'Roboto', arial;
+    text-align:center;
 }
   
 body {
